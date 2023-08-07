@@ -1,2 +1,7 @@
-# github-final-project
-Create a GitHub repository, Add a README file and Choose a license check boxes
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
